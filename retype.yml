@@ -9,6 +9,5 @@ links:
   link: 
 start:
   pro: true
-  
 footer:
   copyright: "&copy; Big Sea {{ year }}. All rights reserved."
