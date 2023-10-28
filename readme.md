@@ -9,7 +9,7 @@ icon: home
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/treasure.7ek0u1ka5ke8.webp" width="62" alt="Treasure Image">
+    <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/treasure.7ek0u1ka5ke8.webp"  alt="Treasure Image" width="300" height="300" style="border-radius: 15px; margin: auto;" >
   </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/ship.59tf2ixg1itc.gif" alt="Ship Image" style="border-radius: 15px; margin: auto;">
