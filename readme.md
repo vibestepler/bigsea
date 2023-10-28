@@ -16,4 +16,4 @@ icon: home
 <br>
 <br>
   
-##### Welcome to this wiki, where you'll find a wide range of piracy resources across various genres. It's also an excellent starting point for anyone new to piracy. Use the sidebar to navigate and scroll down it for more sections. Join our community on [Telegram](https://t.me/BINCCHUBchat) for support, accessing helpful bots, resources, and to contribute to this wiki. We look forward to having you on board!
+Welcome to this wiki, where you'll find a wide range of piracy resources across various genres. It's also an excellent starting point for anyone new to piracy. Use the sidebar to navigate and scroll down it for more sections. Join our community on [Telegram](https://t.me/BINCCHUBchat) for support, accessing helpful bots, resources, and to contribute to this wiki. We look forward to having you on board!
