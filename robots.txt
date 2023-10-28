@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://openaix.org/sitemap.xml.gz
