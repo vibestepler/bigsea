@@ -5,7 +5,7 @@ branding:
   title: BIG SEA
   label: Wiki
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: 
+  link: 
 footer:
   copyright: "&copy; Big Sea {{ year }}. All rights reserved."
