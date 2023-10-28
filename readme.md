@@ -6,12 +6,8 @@ icon: home
 
 # Big Sea Hidden Wiki
 
-
-![](https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/ship.59tf2ixg1itc.gif)
-
-
 <figure class="content-center">
-  <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/ship.59tf2ixg1itc.gif" alt="" style="border-radius: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/ship.59tf2ixg1itc.gif" alt="" style="border-radius: 15px;">
   <figcaption class="caption"></figcaption>
 </figure>
 
