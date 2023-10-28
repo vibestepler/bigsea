@@ -11,14 +11,15 @@ icon: home
   <figcaption class="caption"></figcaption>
 </figure>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/treasure.7ek0u1ka5ke8.webp" width="62" alt="Treasure Image">
   </a>
-  <center><a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/ship.59tf2ixg1itc.gif" alt="Ship Image" style="border-radius: 15px;">
-  </a></center>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/ship.59tf2ixg1itc.gif" alt="Ship Image" style="border-radius: 15px; margin: auto;">
+  </a>
 </div>
+
 
 
 <center><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-gray-600 bg-white border border-gray-300 dark:text-dark-350 dark:border-dark-450 dark:bg-dark-450 h-6 px-2 text-xs rounded-md" ><span>🥂 Not all treasure is silver and gold, mate </span></center>
