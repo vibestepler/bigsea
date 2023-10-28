@@ -14,6 +14,5 @@ icon: home
 <center><span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-gray-600 bg-white border border-gray-300 dark:text-dark-350 dark:border-dark-450 dark:bg-dark-450 h-6 px-2 text-xs rounded-md"><span>🥂 Not all treasure is silver and gold, mate</span></center>
 
 <br>
-<br>
   
-Welcome to this wiki, where you'll find a wide range of piracy resources across various genres. It's also an excellent starting point for anyone new to piracy. Use the sidebar to navigate and scroll down it for more sections. Join our community on [Telegram](https://t.me/BINCCHUBchat) for support, accessing helpful bots, resources, and to contribute to this wiki. We look forward to having you on board!
+###   Welcome to this wiki, where you'll find a wide range of piracy resources across various genres. It's also an excellent starting point for anyone new to piracy. Use the sidebar to navigate and scroll down it for more sections. Join our community on [Telegram](https://t.me/BINCCHUBchat) for support, accessing helpful bots, resources, and to contribute to this wiki. We look forward to having you on board!
