@@ -15,9 +15,9 @@ icon: home
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/treasure.7ek0u1ka5ke8.webp" width="62" alt="Treasure Image">
   </a>
-  <a href="#">
+  <center><a href="#">
     <img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/ship.59tf2ixg1itc.gif" alt="Ship Image" style="border-radius: 15px;">
-  </a>
+  </a></center>
 </div>
 
 
