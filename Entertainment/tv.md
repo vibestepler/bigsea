@@ -24,13 +24,14 @@ icon: video
 
 
 <br>
-<br>
 
 ### 📚 Documentaries
 
+<br>
+
 <table>
-   <br>
      <tr>
     <td><a target="_blank" href="https://live.openaix.org/ani"><img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231031/ani.2m6tkuejog00.webp" width="250" height="250"></a></td>
+   <td><a target="_blank" href="https://live.openaix.org/dis"><img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231101/DISCOVERy.5i96hdf7sark.webp" width="250" height="250"></a></td>
   </tr>
 </table>
