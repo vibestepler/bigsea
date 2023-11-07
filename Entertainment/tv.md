@@ -37,6 +37,8 @@ icon: video
   </tr>
 </table>
 
+<br>
+<br>
 
 ### 🍿 Entertainments
 
