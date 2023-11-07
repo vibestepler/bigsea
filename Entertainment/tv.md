@@ -41,6 +41,7 @@ Note if channel can't stream the video use cloudflare warp vpn its free
      <tr>
     <td><a target="_blank" href="https://live.openaix.org/ani"><img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231031/ani.2m6tkuejog00.webp" width="250" height="250"></a></td>
    <td><a target="_blank" href="https://live.openaix.org/dis"><img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/DISCOVERy-[photoutils.com].4wrg73rzh3wg.webp" width="250" height="250"></a></td>
+   <td><a target="_blank" href="https://live.openaix.org/bce"><img src="https://cdn.statically.io/gh/vibestepler/picx-images-hosting@master/20231107/BBC_EARTH_IMAGE_LOGOS_GREEN_16x9-[photoutils.com].1me4hoqfta8w.webp" width="250" height="250"></a></td>
   </tr>
 </table>
 
