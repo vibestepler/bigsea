@@ -44,6 +44,6 @@ icon: video
 
 <table>
      <tr>
-    <td><a target="_blank" href="https://live.openaix.org/apm"><img src="https://cdn.jsdelivr.net/gh/sachinsenal0x64/picx-images-hosting@master/20230518/Astro_Premier.41w34duzswu8.webp" width="250" height="250"></a></td>
+    <td><a target="_blank" href="https://live.openaix.org/apm"><img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231107/Astro_Premier.5sv4e1offybk.webp" width="250" height="250"></a></td>
   </tr>
 </table>
