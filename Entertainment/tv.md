@@ -23,6 +23,9 @@ Note if channel can't stream the video use cloudflare warp vpn its free
     <td><a target="_blank" href="https://live.openaix.org/s1"><img src="https://cdn.statically.io/gh/vibestepler/picx-images-hosting@master/20231028/sky.3wcegm216eww.webp" width="250" height="250"></a></td>
     <td><a target="_blank" href="https://live.openaix.org/skp1"><img src="https://cdn.jsdelivr.net/gh/vibestepler/picx-images-hosting@master/20231028/skp1.9dck90znxj.webp" width="250" height="250"></a></td>
   </tr>
+  <tr>
+   <td><a target="_blank" href="https://live.openaix.org/ass4"><img src="https://cdn.statically.io/gh/vibestepler/picx-images-hosting@master/20231107/Astro_ASSP4.4a461p5pw3k0.webp" width="250" height="250"></a></td>
+  </tr>
    
 </table>
 
