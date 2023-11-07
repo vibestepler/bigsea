@@ -6,7 +6,7 @@ icon: video
 
 
 !!!  
-Note If channel can't stream the video use Cloudflare warp VPN its free
+Note if channel can't stream the video use cloudflare warp vpn its free
 !!!
 
 <br>
